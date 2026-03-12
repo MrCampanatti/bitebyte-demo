@@ -19,7 +19,7 @@
 [![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-orange?style=flat-square)]()
 [![Made by](https://img.shields.io/badge/λ(jc)23-Lambda_JC23_Data_Systems-0F4C5C?style=flat-square)]()
 
-> **Repositório de avaliação técnica** — versão higienizada sem credenciais ou dados sensíveis.  
+> **Repositório de avaliação técnica** - versão higienizada sem credenciais ou dados sensíveis.  
 > O sistema completo é para uso interno em ambiente clínico.
 
 </div>
